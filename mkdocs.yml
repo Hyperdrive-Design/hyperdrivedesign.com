@@ -3,16 +3,21 @@ site_url: https://hyperdrivedesign.com
 
 theme:
   name: material
+
   palette:
-    scheme: slate
-    primary: blue
-    accent: cyan
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: cyan
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: cyan
+
   font:
     text: Roboto
     code: JetBrains Mono
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+
   logo: /assets/logo.svg
   favicon: /assets/favicon.svg
