@@ -19,5 +19,5 @@ theme:
     text: Roboto
     code: JetBrains Mono
 
-  logo: /assets/logo.png
+  logo: /assets/logo.svg
   favicon: /assets/favicon.svg
