@@ -1,8 +1,9 @@
 site_name: Hyperdrive Design
 site_url: https://hyperdrivedesign.com
-color_mode: dark
+
 theme:
   name: material
-
+  color_mode: false
+  user_color_mode_togggle: auto
   logo: /assets/logo.svg
   favicon: /assets/favicon.svg
