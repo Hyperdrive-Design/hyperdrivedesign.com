@@ -1,5 +1,6 @@
 site_name: Hyperdrive Design
 site_url: https://hyperdrivedesign.com
+color_mode: dark
 theme:
   name: material
 
