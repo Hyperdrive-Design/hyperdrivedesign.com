@@ -3,7 +3,10 @@ site_url: https://hyperdrivedesign.com
 
 theme:
   name: material
-  color_mode: false
-  user_color_mode_togggle: auto
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
   logo: /assets/logo.svg
   favicon: /assets/favicon.svg
