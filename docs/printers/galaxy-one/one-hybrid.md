@@ -12,7 +12,7 @@ The Hybrid Galaxy One printers come with a Beacon leveling system for fast, cont
 
 For any of the printed parts, you will be added to the Beta_Test_Dev role in our Discord server, where you can find the STL files. If you have any questions, please feel free to ask.
 
-![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_Hybred/Galaxy_One_Hybred_main.png)
+![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
 
 <!-- Reference URL's (short links) -->
 [Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com/products/beta-testing-hybrid-hyperdrive-galaxy-one
