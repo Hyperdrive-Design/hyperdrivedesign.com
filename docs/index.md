@@ -7,6 +7,8 @@ description: 3D Printers by HyperDrive Design
 
 ![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
+![HyperDrive Design Team (image)](/assets/hyperdrive-design_team.png)
+
 ## Galaxy printers
 
 ### Galaxy Pulse
