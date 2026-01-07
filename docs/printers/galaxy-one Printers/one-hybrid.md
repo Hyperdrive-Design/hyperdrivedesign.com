@@ -33,7 +33,7 @@ We have a variety of material and component choices available, allowing you to a
   6 mm GT2 belts
 
 - **Control electronics**
-  LDO Leviathan. Octopus and Spider
+  [LDO Leviathan], [BIQU Octopus] and [FYSTEC Spider]
 
 
 
@@ -53,4 +53,9 @@ We have a variety of material and component choices available, allowing you to a
 [G2SA]: https://github.com/JaredC01/Galileo2
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
 [Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+[LDO Leviathan]: https://ldomotion.com/products/voron-leviathan-v12
+[BIQU Octopus]: https://biqu.equipment/products/bigtreetech-octopus-v1-1?variant=39812758765666&currency=USD&gad_source=1&gad_campaignid=19101072959&gbraid=0AAAAAoLyodWrxb61hZxco6qZ0a0Z01H1g&gclid=Cj0KCQiAgvPKBhCxARIsAOlK_Epd3fqlDXh2rHY_gn1axO2vkNRS0-5wYlHfll0zcESndQ7udLymStcaAl7EEALw_wcB
+[FYSTEC SPIDER]: https://www.fysetc.com/products/fysetc-spider-v22?srsltid=AfmBOorru6QMQjZY3pJS6NRJ1qoJFy_ag0RzcHhWeva2ff55Q3OlCnTM
+
+
 
