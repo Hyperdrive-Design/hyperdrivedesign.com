@@ -9,6 +9,6 @@ description: toolhead build guide
 
 ## Hypernova Toolhead Step One
 
-![Hypernova toolhead build step one](/assets/products/hypernova/build_guide/HYPERNOVA_BUILD_GUIDE.png)
+![Hypernova toolhead build step one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE.png)
 
 
