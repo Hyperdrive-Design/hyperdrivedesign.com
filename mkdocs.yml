@@ -22,6 +22,4 @@ theme:
   logo: /assets/logo.svg
   favicon: /assets/favicon.svg
 
-extra_css:
-  - stylesheets/extra.css
 
