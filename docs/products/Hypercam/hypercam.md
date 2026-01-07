@@ -102,7 +102,7 @@ The Hypercam is now fully assembled and ready for mounting and configuration.
 
 ## Downloads
 
-[Download Hypercam STL Files](/assets/products/hypercam/hypercam%20files/hypercam_stl.zip)
+[Download Hypercam STL Files](/assets/products/hypercam/hypercam%20files/hypercam_stls.zip)
 
 [Hypercam USB camera module]: https://beavertonmilestonehobby.com/products/hyper-cam
 
@@ -113,4 +113,4 @@ The Hypercam is now fully assembled and ready for mounting and configuration.
 
 | Version | File | Type | Notes |
 |---:|---|---|---|
-| v1.0.0 | [Hypercam STL Files](/assets/products/hypercam/hypercam%20files/hypercam_stl.zip) | STL (ZIP) | Printable parts pack |
+| v1.0.0 | [Hypercam STL Files](/assets/products/hypercam/hypercam%20files/hypercam_stls.zip) | STL (ZIP) | Printable parts pack |
