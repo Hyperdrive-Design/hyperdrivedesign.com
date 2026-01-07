@@ -5,6 +5,15 @@ description: Hypercam build guide
 
 ---
 
+## Hardware Required
+
+- 2 x Torx buttonhead M3 x 20 screws to mount to frame
+- 2 x Torx countersunk M3 x 14 screws (for mounts)
+- 2 × brass heat-set inserts
+- 4 x 2 mm self-tapping screws (for back plate)
+- Hypercam USB camera module
+
+
 ## Hypercam Assembly Step One  
 ### Install Brass Heat-Set Inserts
 
