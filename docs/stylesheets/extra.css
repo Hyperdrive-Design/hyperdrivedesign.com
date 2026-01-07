@@ -1,0 +1,20 @@
+/* Light mode: make header title black */
+[data-md-color-scheme="default"] .md-header__title {
+  color: #000000;
+}
+
+/* Dark mode: keep it white */
+[data-md-color-scheme="slate"] .md-header__title {
+  color: #ffffff;
+}
+
+/* Increase logo size in the header */
+.md-header__button.md-logo img {
+  height: 64px;        /* default ~24px */
+  width: auto;
+}
+
+/* Optional: add a little spacing so it doesn't crowd text */
+.md-header__title {
+  margin-left: 0.5rem;
+}
