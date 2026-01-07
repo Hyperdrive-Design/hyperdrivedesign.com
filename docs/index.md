@@ -17,10 +17,6 @@
 
 ![Galaxy Pulse 3D printer by HyperDrive Design](/assets/products/printers/Pulse/pulse_main.png)
 
-### Galaxy Spark
-
-![Galaxy Spark 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_Spark/spark_main.png)
-
 
 ## Our partners
 
