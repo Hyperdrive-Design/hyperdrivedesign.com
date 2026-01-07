@@ -9,14 +9,18 @@
 ### Galaxy One CNC
 
 ![Galaxy One CNC 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
+
 ### Galaxy One Hybrid
 
 ![Galaxy One Hybrid 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
 
+### Galaxy Spark
+
+![Galaxy Spark 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_Spark/Galaxy_Spark_main.png)
+
 ### Galaxy Pulse
 
 ![Galaxy Pulse 3D printer by HyperDrive Design](/assets/products/printers/Pulse/pulse_main.png)
-
 
 ## Our partners
 
