@@ -3,6 +3,7 @@ description: Hypercam build guide
 
 # Hypercam Assembly Guide
 
+![Hypernova toolhead overview](/assets/products/hypercam/hypercam_main.png)
 ---
 
 ## Hardware Required
