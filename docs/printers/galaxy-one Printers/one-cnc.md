@@ -3,10 +3,9 @@ title: Galaxy One CNC
 description: Galaxy One CNC printer 
 ---
 
-# Galaxy One CNC -- A printer
+# Galaxy One CNC
 
 ![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
-
 
 ### All CNC-machined
 
