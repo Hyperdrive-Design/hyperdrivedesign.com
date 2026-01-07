@@ -6,7 +6,7 @@ description:
 # Galaxy One -- Hybrid
 
 
-The Hybrid HyperDrive Galaxy One is a 300mm³ CoreXY 3D printer with a hybrid metal and ABS motion system. Designed for speed and precision, it comes in 24V or 48V configurations and offers an option for high-temp printed parts instead of ABS to withstand higher chamber temperatures. 
+The Hybrid HyperDrive Galaxy One is a 300mm³ CoreXY 3D printer with a hybrid CNC aluminum and ABS motion system. Designed for speed and precision, it comes in 24V or 48V configurations and offers an option for high-temp printed parts instead of ABS to withstand higher chamber temperatures. 
 
 The Hybrid Galaxy One printers come with a Beacon leveling system for fast, contactless bed leveling ensuring precise first layer calibration. The printer is also available with either the [Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend for optimized performance.
 

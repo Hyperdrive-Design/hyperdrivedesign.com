@@ -1,15 +1,12 @@
 ---
-title: Galaxy One
-description: Galaxy One printer platform
+title: Galaxy One CNC
+description: Galaxy One CNC printer 
 ---
 
-# Galaxy One -- A printer
+# Galaxy One CNC -- A printer
 
-## Models
+![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
 
-### Hybrid Printed
-
-Replaces some of the FDM-printed ABS parts with an alternative sandwich of lasercut sheet metal and plastic parts, with the option of using a polymer that's able to handle higher temperature environments.
 
 ### All CNC-machined
 
@@ -22,17 +19,17 @@ CNC-machined aluminium parts are available for purchase on the [Beaverton Milest
 We have a variety of material and component choices available, allowing you to assemble or have your printer work however you'd like.
 
 - **Build material**  
-  CNC-machined aluminium, high-temp FDM plastic, or do-it-yourself ABS/ASA FDM printed parts
+  CNC-machined aluminium
 
-- **Hotends**
-  [Rapido UHF] or [Chube Air]
+- **Hotend**
+[Chube Conduction]
 
 - **Extruder**
   Annex Engineering [Sherpa (CNC)] or Bondtech [LGX Lite Pro]
 
 - **Motors & Locomotion**
   24 V or 48 V motor voltage
-  6 mm or 9 mm 2GT belts
+  6 mm GT2 belts
 
 - **Control electronics**
   LDO Leviathan or Duet 3 WiFi
@@ -40,6 +37,6 @@ We have a variety of material and component choices available, allowing you to a
 <!-- Reference URL's (short links) -->
 [Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com/products/beta-testing-hybrid-hyperdrive-galaxy-one
 [Rapido UHF]: https://www.phaetus.com/en-us/products/rapido-hotend?variant=45122834465045
-[Chube Air]: https://chubehotend.com/
+[Chube Conduction]: https://chubehotend.com/
 [Sherpa (CNC)]: <url to sherpa cnc>
 [LGX Lite Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
