@@ -11,7 +11,7 @@ description: Hypercam build guide
 - 2 x Torx countersunk M3 x 14 screws (for mounts)
 - 2 × brass heat-set inserts
 - 4 x 2mm self-tapping screws (for back plate)
-- Hypercam USB camera module
+- [Hypercam USB camera module]
 
 
 ## Hypercam Assembly Step One  
@@ -93,3 +93,10 @@ Confirm the following:
 ## Hypercam Assembly Complete
 
 The Hypercam is now fully assembled and ready for mounting and configuration.
+
+
+
+
+
+[Hypercam USB camera module]: https://beavertonmilestonehobby.com/products/hyper-cam
+
