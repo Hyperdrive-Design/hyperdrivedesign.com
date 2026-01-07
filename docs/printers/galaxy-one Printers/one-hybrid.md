@@ -3,8 +3,6 @@ title: Galaxy One Hybrid
 description: Galaxy One Hybrid printer 
 ---
 
-## Galaxy One Hybrid
-
 ![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
 
 ## Hybrid CNC-machined
