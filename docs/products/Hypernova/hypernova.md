@@ -1,8 +1,8 @@
 ---
-title: Hypernova toolhead
-description: A versatile toolhead
+title: Hypernova Printhead
+description: A versatile Printhead
 ---
 
-# Hypernova toolhead
+# Hypernova Printhead
 
 ![Hypernova toolhead overview](/assets/products/hypernova/hypernova_overview.png)
