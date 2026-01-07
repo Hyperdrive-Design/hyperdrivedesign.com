@@ -26,7 +26,7 @@ We have a variety of material and component choices available, allowing you to a
 [Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend 
 
 - **Extruder**
-  Annex Engineering [Sherpa (CNC)] [orbiter 2.0/2.5] [G2SA] [WWBMG] or Bondtech [LGX Lite/Pro]
+  [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], or [Bondtech LGX Lite/Pro]
 
 - **Motors & Locomotion**
   24 V or 48 V motor voltage
@@ -48,9 +48,9 @@ We have a variety of material and component choices available, allowing you to a
 [TZV6 w/MZE]: https://www.aliexpress.us/item/3256808497028944.html?channel=twinner
 [Dragon Ace]: https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend
 [Chube Conduction]: https://chubehotend.com/
-[Sherpa (CNC)]: <url to sherpa cnc>
+[Annex Engineering Sherpa (CNC)]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 [orbiter 2.0/2.5]: https://www.orbiterprojects.com/orbiter-v2-0/
 [G2SA]: https://github.com/JaredC01/Galileo2
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
-[LGX Lite Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+[Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
 
