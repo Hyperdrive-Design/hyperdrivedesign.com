@@ -1,4 +1,3 @@
-
 # Hypercam Assembly Guide
 
 ![Hypernova toolhead overview](/assets/products/hypercam/hypercam_main.png)
@@ -100,5 +99,9 @@ Confirm the following:
 ## Hypercam Assembly Complete
 
 The Hypercam is now fully assembled and ready for mounting and configuration.
+
+## Downloads
+
+- [Hypercam stl files (ZIP)](/assets/products/hypercam/hypercam files/hypercam stl's.ZIP)
 
 [Hypercam USB camera module]: https://beavertonmilestonehobby.com/products/hyper-cam
