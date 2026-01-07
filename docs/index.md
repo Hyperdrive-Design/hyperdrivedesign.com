@@ -8,7 +8,7 @@
 
 ### Galaxy One CNC
 
-![Galaxy One CNC 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_CNC_main.png)
+![Galaxy One CNC 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
 ### Galaxy One Hybrid
 
 ![Galaxy One Hybrid 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
