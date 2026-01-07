@@ -7,11 +7,6 @@ description: Galaxy One printer platform
 
 ## Models
 
-### Purely Printed
-
-The classic experience: print your own parts and make your printer fully yours.  
-Traditionally printed with ABS or ASA filament for the best and most predictable fit and performance.
-
 ### Hybrid Printed
 
 Replaces some of the FDM-printed ABS parts with an alternative sandwich of lasercut sheet metal and plastic parts, with the option of using a polymer that's able to handle higher temperature environments.
