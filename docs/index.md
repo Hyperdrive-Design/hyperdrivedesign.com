@@ -1,5 +1,4 @@
 
-
 ![HyperDrive Design Team (image)](/assets/hyperdrive-design_team.png)
 
 ![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
@@ -51,4 +50,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 -->
 
 <!-- Reference URL's (short links) -->
-[Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com/products/
