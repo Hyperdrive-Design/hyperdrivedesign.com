@@ -3,11 +3,10 @@ title: HyperDrive Design
 description: 3D Printers by HyperDrive Design
 ---
 
-# HyperDrive Design
-
-![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
 ![HyperDrive Design Team (image)](/assets/hyperdrive-design_team.png)
+
+![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
 ## Galaxy printers
 
