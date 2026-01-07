@@ -3,7 +3,7 @@ title: Belt printer (conversion kit)
 description: Belted-Z Core-XY conversion for Ender-3 style printers
 ---
 
-# Belted-Z Core-XY conversion kit
+## Belted-Z Core-XY conversion kit
 
 This is a conversion kit that will allow you to turn your Ender-3 printer and similar printers alike into a belted printer with an infinite Z-axis, allowing for infinitely "high" parts.
 
