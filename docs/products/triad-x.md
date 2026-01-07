@@ -1,8 +1,8 @@
 ---
-title: Triad-X hot-end
+title: Triad-X hotend
 description: Triad-X is a three-heater-cartridge, high-flow capable hotend
 ---
 
-# Triad-X hot-end
+# Triad-X hotend
 
-![Triad-X hot-end overview](/assets/products/triad-x/triad-x_teaser.png)
+![Triad-X hotend overview](/assets/products/triad-x/triad-x_teaser.png)
