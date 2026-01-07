@@ -5,4 +5,4 @@ description: toolhead build guide
 
 # Hypernova toolhead
 
-![Hypernova toolhead overview](/assets/products/hypernova/hypernova_overview_test.png)
+![Hypernova toolhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
