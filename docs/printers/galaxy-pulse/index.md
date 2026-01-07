@@ -3,4 +3,4 @@ title: Galaxy Pulse
 description:
 ---
 
-# Galaxy Pulse
+## Galaxy Pulse

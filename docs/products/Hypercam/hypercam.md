@@ -1,10 +1,9 @@
-title: Hypercam build guide
-description: Hypercam build guide
 
 # Hypercam Assembly Guide
 
 ![Hypernova toolhead overview](/assets/products/hypercam/hypercam_main.png)
----
+
+***
 
 ## Hardware Required
 
@@ -14,8 +13,8 @@ description: Hypercam build guide
 - 4 x 2mm self-tapping screws (for back plate)
 - [Hypercam USB camera module]
 
-
 ## Hypercam Assembly Step One  
+
 ### Install Brass Heat-Set Inserts
 
 - Locate the heat-set insert holes on each end of the camera housing
@@ -24,9 +23,10 @@ description: Hypercam build guide
 - Ensure inserts are seated flush and square
 - Allow the plastic to cool completely before continuing
 
----
+***
 
 ## Hypercam Assembly Step Two  
+
 ### Attach Left and Right Mounts
 
 - Align the left mount with the housing
@@ -35,9 +35,10 @@ description: Hypercam build guide
 - Tighten screws until snug
 - Do not overtighten
 
----
+***
 
 ## Hypercam Assembly Step Three  
+
 ### Identify Camera Orientation
 
 - Locate the camera lens on the front of the module
@@ -46,18 +47,20 @@ description: Hypercam build guide
 
 The lens and LEDs must face forward during installation.
 
----
+***
 
 ## Hypercam Assembly Step Four  
+
 ### Route USB Cable
 
 - Feed the USB cable through the rear slot in the camera housing
 - Ensure the cable is not twisted or pinched
 - Leave enough slack for the camera to fully seat inside the housing
 
----
+***
 
 ## Hypercam Assembly Step Five  
+
 ### Insert Camera Module
 
 - Insert the camera module into the housing from the rear
@@ -65,12 +68,14 @@ The lens and LEDs must face forward during installation.
 - Seat the camera fully inside the housing
 
 Confirm the following:
+
 - The lens is centered in the front opening
 - Both LEDs align with the front LED holes
 
----
+***
 
 ## Hypercam Assembly Step Six  
+
 ### Install Rear Back Plate
 
 - Place the back plate onto the rear of the housing
@@ -78,9 +83,10 @@ Confirm the following:
 - Install the 2 mm self-tapping screws
 - Tighten evenly until the back plate sits flush
 
----
+***
 
 ## Hypercam Assembly Step Seven  
+
 ### Final Inspection
 
 - Lens is unobstructed and centered
@@ -89,15 +95,10 @@ Confirm the following:
 - Back plate is secure
 - Mounts are tight and square
 
----
+***
 
 ## Hypercam Assembly Complete
 
 The Hypercam is now fully assembled and ready for mounting and configuration.
 
-
-
-
-
 [Hypercam USB camera module]: https://beavertonmilestonehobby.com/products/hyper-cam
-
