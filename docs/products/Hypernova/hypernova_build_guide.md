@@ -3,8 +3,6 @@ title: Hypernova Printhead build guide
 description: Printhead build guide
 ---
 
-# Hypernova Printhead
-
 ![Hypernova Printhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
 ## Hypernova Printhead Step One
@@ -178,6 +176,3 @@ description: Printhead build guide
 ## Hypernova Printhead Step Forty-Three
 
 ![Hypernova Printhead build step forty-three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (42).png)
-
-
-
