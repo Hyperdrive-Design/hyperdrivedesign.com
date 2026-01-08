@@ -4,6 +4,12 @@ site_url: https://hyperdrivedesign.com
 theme:
   name: material
 
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -24,4 +30,3 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
-
