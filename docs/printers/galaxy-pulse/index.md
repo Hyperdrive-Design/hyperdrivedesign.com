@@ -1,5 +1,5 @@
 ---
-title: Galaxy Pulse
+title: Galaxy Pulse Info
 description:
 ---
 
