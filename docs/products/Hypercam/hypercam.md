@@ -107,5 +107,5 @@ The Hypercam is now fully assembled and ready for mounting and configuration.
 ### Hypercam downloads
 
 | Version | File | Type | Notes |
-|---:|---|---|---|
+| ---: | --- | --- | --- |
 | v1.0.0 | [Hypercam STL Files](/assets/products/hypercam/hypercam%20files/hypercam_stls.zip) | STL (ZIP) | Printable parts pack |
