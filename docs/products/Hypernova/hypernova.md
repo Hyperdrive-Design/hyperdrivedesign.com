@@ -19,3 +19,8 @@ description: A versatile Printhead
 [G2SA]: https://github.com/JaredC01/Galileo2
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
 [Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+
+## Downloads
+
+[Download Hypernova CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
+[Download Hypernova STL Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/STL)
