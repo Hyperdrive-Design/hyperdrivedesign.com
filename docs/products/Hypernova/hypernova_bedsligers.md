@@ -28,6 +28,7 @@ description: A versatile Printhead
 ### CAD Files
 
 - [Download CAD Files Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/CAD/Switchwire-Enderwire_hypernova_ASM.zip?raw=true)
+- [Download CAD Files Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/ender-series/CAD/hypernova_ASM.step?raw=true)
 
 ### Chube Hotend
 
@@ -35,7 +36,7 @@ For Chube Air core:
 
 - [Download Chube Core](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/cores/Nova_core_v2_chube.stl?raw=true)
 - [Download Chube Spacer Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/spacers/chube_spacer_v2.stl?raw=true)
-- [Download Chube Spacer Ender/CR10]
+- [Download Chube Spacer Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/ender-series/STL/spacers/chube_spacer_v2.stl?raw=true)
 
 ### Standard Hotend
 
@@ -43,7 +44,7 @@ For Rapido HF/UHF, Dragon Ace, and TZV6:
 
 - [Download Standard Core](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/cores/Nova_core_v2.stl?raw=true)
 - [Download Standard Spacer Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/spacers/spacer_v2.stl?raw=true)
-- [Download Chube Spacer Ender/CR10]
+- [Download Standard Spacer Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/ender-series/STL/spacers/spacer_v2.stl?raw=true)
 
 ### Belt Clip
 
