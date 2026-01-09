@@ -3,7 +3,7 @@ title: Hypernova Printhead
 description: A versatile Printhead
 ---
 
-# [Hypernova Printhead](https://beavertonmilestonehobby.com/products/hypernova?variant=42383301017688)
+## [Hypernova Printhead](https://beavertonmilestonehobby.com/products/hypernova?variant=42383301017688)
 
 ![Hypernova toolhead overview](/assets/products/hypernova/hypernova_overview.png)
 
