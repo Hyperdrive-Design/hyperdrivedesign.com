@@ -10,15 +10,15 @@
 
 ![Galaxy One CNC 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
 
-### Galaxy One Hybrid
+### [Galaxy One Hybrid]
 
 ![Galaxy One Hybrid 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
 
-### Galaxy Spark
+### [Galaxy Spark]
 
 ![Galaxy Spark 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_Spark/Galaxy_Spark_main.png)
 
-### Galaxy Pulse
+### [Galaxy Pulse]
 
 ![Galaxy Pulse 3D printer by HyperDrive Design](/assets/products/printers/Pulse/pulse_main.png)
 
@@ -29,6 +29,9 @@ As of present, our only partner is the [Beaverton Milestone Hobby] store, which 
 <!-- Reference URL's (short links) -->
 [Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com
 [Galaxy One CNC]: https://beavertonmilestonehobby.com/products/hyper-drive-galaxy-one
+[Galaxy One Hybrid]: https://beavertonmilestonehobby.com/products/beta-testing-hybrid-hyperdrive-galaxy-one
+[Galaxy Spark]: https://beavertonmilestonehobby.com/products/pre-order-hyperdrive-galaxy-spark
+[Galaxy Pulse]: https://beavertonmilestonehobby.com/products/ender-5-conversion-the-hyperdrive-galaxy-pulse?_pos=1&_psq=pulse&_ss=e&_v=1.0
 
 <!--
 
