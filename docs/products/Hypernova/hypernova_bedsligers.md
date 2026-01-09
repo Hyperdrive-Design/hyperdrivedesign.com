@@ -27,7 +27,7 @@ description: A versatile Printhead
 
 ### CAD Files
 
-- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/CAD/Switchwire-Enderwire_hypernova_ASM.zip?raw=true)
+- [Download CAD Files Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/CAD/Switchwire-Enderwire_hypernova_ASM.zip?raw=true)
 
 ### Chube Hotend
 
