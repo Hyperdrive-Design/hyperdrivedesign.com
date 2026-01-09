@@ -25,5 +25,26 @@ description: A versatile Printhead
 
 ## Downloads
 
-[Download Hypernova CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
-[Download Hypernova STL Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/STL)
+### Select Your Hotend Type
+
+<details>
+<summary>🔧 Chube Hotend</summary>
+
+Download these files for Chube hotend:
+
+- [Download Chube Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2_chube.stl?raw=true)
+- [Download Chube Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/chube_spacer_v2.stl?raw=true)
+- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
+
+</details>
+
+<details>
+<summary>🔧 Standard Hotend (Rapido, Dragon Ace, TZV6, etc.)</summary>
+
+Download these files for all other hotends:
+
+- [Download Standard Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2.stl?raw=true)
+- [Download Standard Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/spacer_v2.stl?raw=true)
+- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
+
+</details>
