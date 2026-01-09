@@ -25,21 +25,21 @@ description: A versatile Printhead
 
 ## Downloads
 
-### 🔧 Chube Hotend
+### Chube Hotend
 For Chube hotend core:
 
 - [Download Chube Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2_chube.stl?raw=true)
 - [Download Chube Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/chube_spacer_v2.stl?raw=true)
 - [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
-### 🔧 Standard Hotend
+### Standard Hotend
 For Rapido, Dragon Ace, TZV6, and all other hotends:
 
 - [Download Standard Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2.stl?raw=true)
 - [Download Standard Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/spacer_v2.stl?raw=true)
 - [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
-### 💨 Part Fan Ducts
+### Part Fan Ducts
 
 #### UHF Duct
 For Chube and Rapido UHF hotends:
@@ -51,7 +51,7 @@ For Rapido HF, Dragon Ace, and TZV6 MZE hotends:
 
 - [Download HF Duct](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_ducts/nova_ducts_HF_V2.stl?raw=true)
 
-### 🔩 Extruders
+### Extruders
 
 #### Sherpa Mini Extruder
 
