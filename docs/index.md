@@ -6,7 +6,7 @@
 
 ## Galaxy printers
 
-### Galaxy One CNC
+### [Galaxy One CNC]
 
 ![Galaxy One CNC 3D printer by HyperDrive Design](/assets/products/printers/Galaxy_One_CNC/Galaxy_One_CNC_main.png)
 
@@ -28,6 +28,7 @@ As of present, our only partner is the [Beaverton Milestone Hobby] store, which 
 
 <!-- Reference URL's (short links) -->
 [Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com
+[Galaxy One CNC]: https://beavertonmilestonehobby.com/products/hyper-drive-galaxy-one
 
 <!--
 
