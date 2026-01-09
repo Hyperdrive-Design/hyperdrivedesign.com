@@ -24,7 +24,10 @@
 
 ## Our partners
 
-As of present, our only partner is the [Beaverton Millstone Hobby] store, which provides us with much-needed support, an outlet to sell our products, and a way of reaching customers and events we are attending. A worthwhile partner!
+As of present, our only partner is the [Beaverton Milestone Hobby] store, which provides us with much-needed support, an outlet to sell our products, and a way of reaching customers and events we are attending. A worthwhile partner!
+
+<!-- Reference URL's (short links) -->
+[Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com
 
 <!--
 
@@ -49,5 +52,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 -->
-
-<!-- Reference URL's (short links) -->
