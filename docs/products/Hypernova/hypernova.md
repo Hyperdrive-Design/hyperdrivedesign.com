@@ -25,19 +25,21 @@ description: A versatile Printhead
 
 ## Downloads
 
+### CAD Files
+
+- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/blob/main/CAD/hypernova_ASM.zip?raw=true)
+
 ### Chube Hotend
 For Chube Air core:
 
 - [Download Chube Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2_chube.stl?raw=true)
 - [Download Chube Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/chube_spacer_v2.stl?raw=true)
-- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
 ### Standard Hotend
 For Rapido HF/UHF, Dragon Ace, and TZV6:
 
 - [Download Standard Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2.stl?raw=true)
 - [Download Standard Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/spacer_v2.stl?raw=true)
-- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
 ### Belt Ties
 
