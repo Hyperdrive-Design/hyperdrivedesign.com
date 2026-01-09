@@ -38,3 +38,41 @@ For Rapido, Dragon Ace, TZV6, and all other hotends:
 - [Download Standard Core](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/cores/Nova_core_v2.stl?raw=true)
 - [Download Standard Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/spacer_v2.stl?raw=true)
 - [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
+
+### 💨 Part Fan Ducts
+
+#### UHF Duct
+For Chube and Rapido UHF hotends:
+
+- [Download UHF Duct](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_ducts/nova_ducts_UHF_V2.stl?raw=true)
+
+#### HF Duct
+For Rapido HF, Dragon Ace, and TZV6 MZE hotends:
+
+- [Download HF Duct](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_ducts/nova_ducts_HF_V2.stl?raw=true)
+
+### 🔩 Extruders
+
+#### Sherpa Mini Extruder
+
+- [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/sherpa_mini/Extruder_base_sherpa.stl?raw=true)
+- [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/sherpa_mini/canbus_brace_sherpa_mini.stl?raw=true)
+- [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/sherpa_mini/EBB36%20Mount%20-%20Sherpa-Mini%20%5Bstrain%20relief%5D.stl?raw=true)
+
+#### Orbiter 2.0 Extruder
+
+- [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/orbiter_2.0/Extruder_base_orbiter_2.0.stl?raw=true)
+- [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/orbiter_2.0/canbus_brace_short_orbiter_2.0.stl?raw=true)
+- [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/orbiter_2.0/EBB36%20Mount%20-%20Orbiter2.0%20%5Bstrain%20relief%5D.stl?raw=true)
+
+#### G2SA Extruder
+
+- [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/G2SA/Extruder_base_G2SA.stl?raw=true)
+- [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/G2SA/can_mount%20G2SA.stl?raw=true)
+- [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/G2SA/EBB36%20Mount%20-%20G2SA%20%5Bstrain%20relief%5D.stl?raw=true)
+
+#### Bondtech LGX Lite/Pro Extruder
+
+- [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/LGX_Lite/Extruder_base_lgx_lite.stl?raw=true)
+- [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/LGX_Lite/can_mount_LGX-lite.stl?raw=true)
+- [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/LGX_Lite/EBB36%20Mount%20-%20LGX-lite%20%5Bstrain%20relief%5D.stl?raw=true)
