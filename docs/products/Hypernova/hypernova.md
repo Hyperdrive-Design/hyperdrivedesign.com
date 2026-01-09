@@ -39,6 +39,11 @@ For Rapido HF/UHF, Dragon Ace, and TZV6:
 - [Download Standard Spacer](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/spacers/spacer_v2.stl?raw=true)
 - [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
+### Belt Ties
+
+- [Download 6mm Belt Tie](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/belt_ties/6mm_belt_tie_X2.stl?raw=true)
+- [Download 9mm Belt Tie](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/belt_ties/9mm_belt_tie_X2.stl?raw=true)
+
 ### Part Fan Ducts
 
 #### UHF Duct
