@@ -3,7 +3,7 @@ title: Hypernova Printhead Bedslinger Edition
 description: A versatile Printhead
 ---
 
-## [Hypernova Printhead Bedslinger Edition ](https://beavertonmilestonehobby.com/products/hypernova?variant=42383301017688)
+## [Hypernova Printhead Bedslinger Edition ](https://beavertonmilestonehobby.com/products/hypernova?variant=43650022047832)
 
 ![Hypernova toolhead overview](/assets/products/hypernova/bedslinger_edition.png)
 
