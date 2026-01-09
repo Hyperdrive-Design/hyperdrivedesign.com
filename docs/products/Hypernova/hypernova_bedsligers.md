@@ -1,11 +1,11 @@
 ---
-title: Hypernova Printhead
+title: Hypernova Printhead Bedslinger Edition
 description: A versatile Printhead
 ---
 
-## [Hypernova Printhead](https://beavertonmilestonehobby.com/products/hypernova?variant=42383301017688)
+## [Hypernova Printhead Bedslinger Edition ](https://beavertonmilestonehobby.com/products/hypernova?variant=42383301017688)
 
-![Hypernova toolhead overview](/assets/products/hypernova/hypernova_overview.png)
+![Hypernova toolhead overview](/assets/products/hypernova/bedslinger_edition.png)
 
 - **Hotend**
 [Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend
