@@ -1,6 +1,6 @@
 # Welcome to HyperDrive Docs
 
-![HyperDrive Design Team (image)](/assets/hyperdrive-design_team.png)
+
 
 ![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
