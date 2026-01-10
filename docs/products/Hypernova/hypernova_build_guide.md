@@ -5,15 +5,15 @@ description: Printhead build guide
 
 ![Hypernova Printhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
-## 3.0 BEFORE GETTING STARTED
+## 3 BEFORE GETTING STARTED
 
 ![Hypernova Printhead build step one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE.png)
 
-## 1.0 TABLE OF CONTENTS
+## 1 TABLE OF CONTENTS
 
 ![Hypernova Printhead build step two](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (1).png)
 
-## 2.0 SLICING
+## 2 SLICING
 
 ![Hypernova Printhead build step three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (2).png)
 
@@ -69,7 +69,7 @@ description: Printhead build guide
 
 ![Hypernova Printhead build step sixteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (15).png)
 
-## 4.0 NOVACORE-MOUNTING
+## 4 NOVACORE-MOUNTING
 
 ![Hypernova Printhead build step seventeen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (16).png)
 
@@ -81,7 +81,7 @@ description: Printhead build guide
 
 ![Hypernova Printhead build step nineteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (18).png)
 
-## 6.0 HOTEND-MOUNTING
+## 6 HOTEND-MOUNTING
 
 ![Hypernova Printhead build step twenty](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (19).png)
 
@@ -89,7 +89,7 @@ description: Printhead build guide
 
 ![Hypernova Printhead build step twenty-one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (20).png)
 
-## 7.0 BEACON-MOUNTING
+## 7 BEACON-MOUNTING
 
 ![Hypernova Printhead build step twenty-two](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (21).png)
 
