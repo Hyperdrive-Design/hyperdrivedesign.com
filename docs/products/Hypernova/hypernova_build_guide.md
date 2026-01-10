@@ -5,7 +5,7 @@ description: Printhead build guide
 
 ![Hypernova Printhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
-## 3 BEFORE GETTING STARTED
+## 0 BEFORE GETTING STARTED
 
 ![Hypernova Printhead build step one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE.png)
 
