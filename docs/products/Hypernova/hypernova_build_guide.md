@@ -3,6 +3,8 @@ title: Hypernova Printhead build guide
 description: Printhead build guide
 ---
 
+[Download Build Guide PDF](https://github.com/Hyperdrive-Design/hyperdrivedesign.com/blob/main/docs/assets/products/hypernova/PDF/HYPERNOVA%20BUILD%20GUIDE.pdf)
+
 ![Hypernova Printhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
 ## 1 BEFORE GETTING STARTED
