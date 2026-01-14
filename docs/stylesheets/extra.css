@@ -6,6 +6,16 @@
   font-display: swap;
 }
 
+/* Use a local font for numerals since Nerik has no digits */
+@font-face {
+  font-family: "Nerik";
+  src: local("JetBrains Mono"), local("Roboto"), local("Arial");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0030-0039;
+}
+
 :root {
   --md-text-font-family: "Nerik", "Roboto", sans-serif;
 }
