@@ -28,7 +28,7 @@ theme:
         name: Switch to dark mode
 
   font:
-    text: Nerik
+    text: Roboto
     code: JetBrains Mono
 
   logo: /assets/logo.svg

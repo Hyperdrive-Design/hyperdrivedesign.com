@@ -16,13 +16,15 @@
   unicode-range: U+0030-0039;
 }
 
-:root {
-  --md-text-font-family: "Nerik", "Roboto", sans-serif;
-}
-
 /* Black top bar with high-contrast text */
 .md-header {
   background-color: #000000;
+}
+
+/* Use Nerik only in the top bar title */
+.md-header__title,
+.md-header__topic {
+  font-family: "Nerik", "Roboto", sans-serif;
 }
 
 /* Theme accent color */
