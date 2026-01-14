@@ -3,6 +3,13 @@
   background-color: #000000;
 }
 
+/* Theme accent color */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-accent-fg: #00A8F3;
+  --md-accent-fg--transparent: rgba(0, 168, 243, 0.15);
+}
+
 .md-header__topic,
 .md-header__button,
 .md-header__button.md-logo,
@@ -13,9 +20,9 @@
   fill: #ffffff;
 }
 
-/* Split title text: half white, half cyan */
+/* Split title text: half white, half blue */
 .md-header__title .md-ellipsis {
-  background: linear-gradient(90deg, #ffffff 0 50%, #00e5ff 50% 100%);
+  background: linear-gradient(90deg, #ffffff 0 50%, #00A8F3 50% 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -23,7 +30,7 @@
 
 /* Match search box to theme blue on black header */
 .md-search__form {
-  background-color: #0d47a1;
+  background-color: #00A8F3;
   border-radius: 999px;
 }
 
@@ -36,7 +43,7 @@
 }
 
 .md-search__input:focus {
-  background-color: #1565c0;
+  background-color: #0096d9;
 }
 
 /* Increase logo size in the header */
