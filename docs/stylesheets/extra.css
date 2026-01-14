@@ -8,6 +8,7 @@
 [data-md-color-scheme="slate"] {
   --md-accent-fg: #00A8F3;
   --md-accent-fg--transparent: rgba(0, 168, 243, 0.15);
+  --md-typeset-a-color: #00A8F3;
 }
 
 .md-header__topic,
