@@ -3,7 +3,6 @@
   background-color: #000000;
 }
 
-.md-header__title,
 .md-header__topic,
 .md-header__button,
 .md-header__button.md-logo,
@@ -12,6 +11,14 @@
 .md-search__icon {
   color: #ffffff;
   fill: #ffffff;
+}
+
+/* Split title text: half white, half cyan */
+.md-header__title .md-ellipsis {
+  background: linear-gradient(90deg, #ffffff 0 50%, #00e5ff 50% 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 /* Match search box to theme blue on black header */
