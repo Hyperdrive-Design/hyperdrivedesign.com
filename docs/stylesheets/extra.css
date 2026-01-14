@@ -1,11 +1,35 @@
-/* Light mode: make header title black */
-[data-md-color-scheme="default"] .md-header__title {
-  color: #000000;
+/* Black top bar with high-contrast text */
+.md-header {
+  background-color: #000000;
 }
 
-/* Dark mode: keep it white */
-[data-md-color-scheme="slate"] .md-header__title {
+.md-header__title,
+.md-header__topic,
+.md-header__button,
+.md-header__button.md-logo,
+.md-header__button.md-logo svg,
+.md-header__button.md-logo img,
+.md-search__icon {
   color: #ffffff;
+  fill: #ffffff;
+}
+
+/* Match search box to theme blue on black header */
+.md-search__form {
+  background-color: #0d47a1;
+  border-radius: 999px;
+}
+
+.md-search__input {
+  color: #ffffff;
+}
+
+.md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.md-search__input:focus {
+  background-color: #1565c0;
 }
 
 /* Increase logo size in the header */
@@ -32,5 +56,3 @@
   order: 1000;
   margin-left: auto;
 }
-
-
