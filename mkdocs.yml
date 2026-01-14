@@ -35,4 +35,4 @@ theme:
   favicon: /assets/favicon.svg
 
 extra_css:
-  - assets/stylesheets/extra.css
+  - stylesheets/extra.css

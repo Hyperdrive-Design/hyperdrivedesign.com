@@ -18,3 +18,17 @@
 .md-header__title {
   margin-left: 0.5rem;
 }
+
+/* Push the palette toggle to the far right of the top bar */
+.md-header__inner {
+  display: flex;
+}
+
+.md-search {
+  order: 900;
+}
+
+.md-header__button.md-header__button--palette {
+  order: 1000;
+  margin-left: auto;
+}
