@@ -21,6 +21,7 @@ We have a variety of material and component choices available, allowing you to a
 - **Hotend:** [Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend.
 - **Extruder:** [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], or [Bondtech LGX Lite/Pro].
 - **Beacon probe:** Uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
+- **Cartographer probe:** Uses the [Cartographer V4] eddy current displacement sensor with USB/CAN support and a low-profile, all-in-one design.
 - **Motors & Locomotion:** 24 V or 48 V motor voltage, 6 mm GT2 belts
 - **Control electronics:** [LDO Leviathan], [BIQU Octopus] and [FYSTEC Spider]
 
@@ -39,3 +40,4 @@ We have a variety of material and component choices available, allowing you to a
 [BIQU Octopus]: https://biqu.equipment/products/bigtreetech-octopus-v1-1?variant=39812758765666&currency=USD&gad_source=1&gad_campaignid=19101072959&gbraid=0AAAAAoLyodWrxb61hZxco6qZ0a0Z01H1g&gclid=Cj0KCQiAgvPKBhCxARIsAOlK_Epd3fqlDXh2rHY_gn1axO2vkNRS0-5wYlHfll0zcESndQ7udLymStcaAl7EEALw_wcB
 [FYSTEC SPIDER]: https://www.fysetc.com/products/fysetc-spider-v22?srsltid=AfmBOorru6QMQjZY3pJS6NRJ1qoJFy_ag0RzcHhWeva2ff55Q3OlCnTM
 [Beacon]: https://beacon3d.com/
+[Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order

@@ -19,6 +19,7 @@ We have a variety of material and component choices available, allowing you to a
 - **Hotend:** [Chube Conduction]
 - **Extruder:** Annex Engineering [Sherpa (CNC)] or Bondtech [LGX Lite Pro]
 - **Beacon probe:** Uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
+- **Cartographer probe:** Uses the [Cartographer V4] eddy current displacement sensor with USB/CAN support and a low-profile, all-in-one design.
 - **Motors & Locomotion:** 24 V or 48 V motor voltage, 6 mm GT2 belts
 - **Control electronics:** LDO Leviathan or Duet 3 WiFi
 
@@ -28,3 +29,4 @@ We have a variety of material and component choices available, allowing you to a
 [Sherpa (CNC)]: <url to sherpa cnc>
 [LGX Lite Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
 [Beacon]: https://beacon3d.com/
+[Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order

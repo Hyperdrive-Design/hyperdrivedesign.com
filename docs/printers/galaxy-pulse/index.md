@@ -13,6 +13,14 @@ The Hyperdrive Galaxy Pulse is a high-speed, all-metal CoreXY upgrade for the En
 
 Galaxy Pulse uses our [Hypernova Printhead], with the same hotend and extruder support. Compatible hotends include the [Rapido UHF/HF], [TZV6 w/MZE], [Dragon Ace], and [Chube Air]. Supported extruders include [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], and [Bondtech LGX Lite/Pro].
 
+## Beacon probe
+
+Galaxy Pulse uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
+
+## Cartographer probe
+
+Galaxy Pulse also supports the [Cartographer V4] eddy current displacement sensor with USB/CAN support and a low-profile, all-in-one design.
+
 ## Options
 
 - **Upgrade kit**
@@ -32,3 +40,5 @@ Galaxy Pulse uses our [Hypernova Printhead], with the same hotend and extruder s
 [G2SA]: https://github.com/JaredC01/Galileo2
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
 [Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+[Beacon]: https://beacon3d.com/
+[Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order

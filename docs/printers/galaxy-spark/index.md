@@ -21,6 +21,10 @@ It uses Klipper's Z-tilt to level the print bed quickly and keep it aligned.
 
 Galaxy Spark uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
 
+## Cartographer probe
+
+Galaxy Spark also supports the [Cartographer V4] eddy current displacement sensor with USB/CAN support and a low-profile, all-in-one design.
+
 <!-- Reference URL's (short links) -->
 [Hypernova Printhead]: /products/Hypernova/hypernova/
 [Rapido UHF/HF]: https://www.phaetus.com/en-us/products/rapido-hotend?variant=45122834465045
@@ -33,3 +37,4 @@ Galaxy Spark uses the [Beacon] surface scanner, which uses eddy current sensing 
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
 [Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
 [Beacon]: https://beacon3d.com/
+[Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order
