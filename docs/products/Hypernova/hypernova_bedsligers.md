@@ -13,6 +13,9 @@ description: A versatile Printhead
 - **Extruder**
   [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], or [Bondtech LGX Lite/Pro]
 
+- **Probe**
+  [Beacon], [Cartographer V4]
+
 [Rapido UHF/HF]: https://www.phaetus.com/en-us/products/rapido-hotend?variant=45122834465045
 [Chube Air]: https://chubehotend.com/
 [TZV6 w/MZE]: https://www.aliexpress.us/item/3256808497028944.html?channel=twinner
@@ -22,6 +25,8 @@ description: A versatile Printhead
 [G2SA]: https://github.com/JaredC01/Galileo2
 [WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
 [Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+[Beacon]: https://beacon3d.com/
+[Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order
 
 ## Downloads
 
