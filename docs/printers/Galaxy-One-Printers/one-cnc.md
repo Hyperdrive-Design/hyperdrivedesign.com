@@ -15,23 +15,23 @@ CNC-machined aluminium parts are available for purchase on the [Beaverton Milest
 
 We have a variety of material and component choices available, allowing you to assemble or have your printer work however you'd like.
 
-- **Build material**  
+- **Build material:**  
   CNC-machined aluminium
 
-- **Hotend**
+- **Hotend:**
 [Chube Conduction]
 
-- **Extruder**
+- **Extruder:**
   Annex Engineering [Sherpa (CNC)] or Bondtech [LGX Lite Pro]
 
-- **Beacon probe**
+- **Beacon probe:**
   Uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
 
-- **Motors & Locomotion**
+- **Motors & Locomotion:**
   24 V or 48 V motor voltage
   6 mm GT2 belts
 
-- **Control electronics**
+- **Control electronics:**
   LDO Leviathan or Duet 3 WiFi
 
 <!-- Reference URL's (short links) -->
