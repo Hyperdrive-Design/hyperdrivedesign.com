@@ -26,6 +26,9 @@ We have a variety of material and component choices available, allowing you to a
 - **Extruder**
   [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], or [Bondtech LGX Lite/Pro]
 
+- **Beacon probe**
+  Galaxy Spark uses the [Beacon] surface scanner, which uses eddy current sensing to scan the bed quickly with sub-micron precision right before the first layer.
+
 - **Motors & Locomotion**
   24 V or 48 V motor voltage
   6 mm GT2 belts
