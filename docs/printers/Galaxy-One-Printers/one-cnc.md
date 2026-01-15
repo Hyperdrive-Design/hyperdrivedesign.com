@@ -39,3 +39,4 @@ We have a variety of material and component choices available, allowing you to a
 [Chube Conduction]: https://chubehotend.com/
 [Sherpa (CNC)]: <url to sherpa cnc>
 [LGX Lite Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/
+[Beacon]: https://beacon3d.com/

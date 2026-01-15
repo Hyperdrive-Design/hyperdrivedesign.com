@@ -50,3 +50,4 @@ We have a variety of material and component choices available, allowing you to a
 [LDO Leviathan]: https://ldomotion.com/products/voron-leviathan-v12
 [BIQU Octopus]: https://biqu.equipment/products/bigtreetech-octopus-v1-1?variant=39812758765666&currency=USD&gad_source=1&gad_campaignid=19101072959&gbraid=0AAAAAoLyodWrxb61hZxco6qZ0a0Z01H1g&gclid=Cj0KCQiAgvPKBhCxARIsAOlK_Epd3fqlDXh2rHY_gn1axO2vkNRS0-5wYlHfll0zcESndQ7udLymStcaAl7EEALw_wcB
 [FYSTEC SPIDER]: https://www.fysetc.com/products/fysetc-spider-v22?srsltid=AfmBOorru6QMQjZY3pJS6NRJ1qoJFy_ag0RzcHhWeva2ff55Q3OlCnTM
+[Beacon]: https://beacon3d.com/
