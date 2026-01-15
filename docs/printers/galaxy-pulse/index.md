@@ -9,6 +9,10 @@ description:
 
 The Hyperdrive Galaxy Pulse is a high-speed, all-metal CoreXY upgrade for the Ender 5, designed for better precision, speed, and reliability. For those wanting a complete build, we also offer a full-frame option with a reinforced structure and premium components.
 
+## Hypernova printhead support
+
+Galaxy Pulse uses our [Hypernova Printhead], with the same hotend and extruder support. Compatible hotends include the [Rapido UHF/HF], [TZV6 w/MZE], [Dragon Ace], and [Chube Air]. Supported extruders include [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], and [Bondtech LGX Lite/Pro].
+
 ## Options
 
 - **Upgrade kit**
@@ -16,3 +20,15 @@ The Hyperdrive Galaxy Pulse is a high-speed, all-metal CoreXY upgrade for the En
 
 - **Full-frame build**
   Reinforced structure with CNC aluminum motion components and printed ABS/ASA parts, including a Klicky Klack door that seals against foam and uses magnetic latching
+
+<!-- Reference URL's (short links) -->
+[Hypernova Printhead]: /products/Hypernova/hypernova/
+[Rapido UHF/HF]: https://www.phaetus.com/en-us/products/rapido-hotend?variant=45122834465045
+[Chube Air]: https://chubehotend.com/
+[TZV6 w/MZE]: https://www.aliexpress.us/item/3256808497028944.html?channel=twinner
+[Dragon Ace]: https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend
+[Annex Engineering Sherpa (CNC)]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+[orbiter 2.0/2.5]: https://www.orbiterprojects.com/orbiter-v2-0/
+[G2SA]: https://github.com/JaredC01/Galileo2
+[WWBMG]: https://github.com/tetsu97/WristWatch-G2-Extruder
+[Bondtech LGX Lite/Pro]: https://www.bondtech.se/product/lgx-lite-pro-extruder/

@@ -13,7 +13,9 @@ The Hyperdrive Galaxy Spark is a 180mmA3 CoreXY 3D printer featuring a hybrid me
 
 Galaxy Spark uses our [Hypernova Printhead], with the same hotend and extruder support. Compatible hotends include the [Rapido UHF/HF], [TZV6 w/MZE], [Dragon Ace], and [Chube Air]. Supported extruders include [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], and [Bondtech LGX Lite/Pro].
 
-It uses 3-point bed tramming for fast, stable leveling.
+## Z-tilt leveling
+
+It uses Klipper's Z-tilt to level the print bed quickly and keep it aligned.
 
 ## Beacon probe
 
