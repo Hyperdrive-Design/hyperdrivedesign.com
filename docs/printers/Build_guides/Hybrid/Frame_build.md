@@ -11,6 +11,7 @@ Build the core frame before moving on to motion components and electronics.
 - [x] All extrusions accounted for
 - [x] Rails and hardware sorted by step
 - [x] Tools ready (hex keys, square, threadlocker)
+- [x] Panel T-Nut Rollins ready to install in frame
 
 tip "Alignment first" - Snug fasteners only until the frame is square. Final torque comes after all extrusions are in.
 
@@ -52,6 +53,9 @@ tip "Threadlocker" - Add a small amount of threadlocker to all M5x16 frame bolts
 
 ## Step 6 – Install inner panel
 
+!!! tip "Preinstall T-Nut Rollins"
+    Preinstall the T-Nut Rollins in the extrusions before fitting the inner panel.
+
 ![Step 6 – Install inner panel](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 6 - install inner panel.PNG)
 
 ---
@@ -69,6 +73,9 @@ tip "Threadlocker" - Add a small amount of threadlocker to all M5x16 frame bolts
 ---
 
 ## Step 9 – Install lower electronics panel and bottom extrusion
+
+!!! tip "Preinstall T-Nut Rollins"
+    Preinstall the T-Nut Rollins in the extrusions before fitting the lower electronics panel.
 
 ![Step 9 – Install lower electronics panel and bottom extrusion](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 9 - Install lower eletronics panel and bottom extrusion.PNG)
 
