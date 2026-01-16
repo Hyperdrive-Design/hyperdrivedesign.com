@@ -10,10 +10,6 @@
 !!! tip "Threadlocker"
     Add a small amount of threadlocker to all M5x16 frame bolts.
 
-![Overview](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/overview.png)
-
----
-
 ## Step-by-step
 
 ### Step 1 - Build left frame
@@ -61,3 +57,5 @@
 ### Step 8 - Slide center extrusion, then install top extrusion
 
 ![Step 8 - Slide center extrusion, then install top extrusion](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 8 - slide center extustion then install top extrusion.PNG)
+
+![Overview](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/overview.png)
