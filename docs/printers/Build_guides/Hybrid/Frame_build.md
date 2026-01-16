@@ -1,13 +1,8 @@
-# Quick checklist
-
 - [x] All extrusions accounted for
 - [x] Rails and hardware sorted by step
 - [x] Tools ready (hex keys, square, threadlocker)
 
-!!! tip "Threadlocker"
-    Add a small amount of threadlocker to all M5x16 frame bolts.
-
-## Step 1 - Build left frame
+# Step 1 - Build left frame
 
 ![Step 1 - Build left frame](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 1 - Build left frame.png)
 
