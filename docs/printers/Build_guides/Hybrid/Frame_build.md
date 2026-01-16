@@ -12,11 +12,9 @@ Build the core frame before moving on to motion components and electronics.
 - [x] Rails and hardware sorted by step
 - [x] Tools ready (hex keys, square, threadlocker)
 
-!!! tip "Alignment first"
-    Snug fasteners only until the frame is square. Final torque comes after all extrusions are in.
+tip "Alignment first" - Snug fasteners only until the frame is square. Final torque comes after all extrusions are in.
 
-!!! tip "Threadlocker"
-    Add a small amount of threadlocker to all M5x16 frame bolts.
+tip "Threadlocker" - Add a small amount of threadlocker to all M5x16 frame bolts.
 
 ---
 
