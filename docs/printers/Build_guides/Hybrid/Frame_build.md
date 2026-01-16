@@ -1,12 +1,4 @@
-# Frame Assembly Overview
-
-Build the core frame before moving on to motion components and electronics.
-
-![Overview](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/overview.png)
-
----
-
-## Quick checklist
+# Quick checklist
 
 - [x] All extrusions accounted for
 - [x] Rails and hardware sorted by step
@@ -17,6 +9,12 @@ Build the core frame before moving on to motion components and electronics.
 
 !!! tip "Threadlocker"
     Add a small amount of threadlocker to all M5x16 frame bolts.
+
+## Frame Assembly Overview
+
+Build the core frame before moving on to motion components and electronics.
+
+![Overview](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/overview.png)
 
 ---
 
