@@ -53,8 +53,7 @@ tip "Threadlocker" - Add a small amount of threadlocker to all M5x16 frame bolts
 
 ## Step 6 – Install inner panel
 
-!!! tip "Preinstall T-Nut Rollins"
-    Preinstall the T-Nut Rollins in the extrusions before fitting the inner panel.
+Preinstall the T-Nut Rollins in the extrusions before fitting the inner panel.
 
 ![Step 6 – Install inner panel](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 6 - install inner panel.PNG)
 
@@ -74,8 +73,7 @@ tip "Threadlocker" - Add a small amount of threadlocker to all M5x16 frame bolts
 
 ## Step 9 – Install lower electronics panel and bottom extrusion
 
-!!! tip "Preinstall T-Nut Rollins"
-    Preinstall the T-Nut Rollins in the extrusions before fitting the lower electronics panel.
+ Preinstall the T-Nut Rollins in the extrusions before fitting the lower electronics panel.
 
 ![Step 9 – Install lower electronics panel and bottom extrusion](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/Step 9 - Install lower eletronics panel and bottom extrusion.PNG)
 
