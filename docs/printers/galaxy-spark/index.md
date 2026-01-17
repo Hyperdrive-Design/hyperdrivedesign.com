@@ -7,7 +7,7 @@ description:
 
 ## High-performance CoreXY
 
-The Hyperdrive Galaxy Spark is a 180mmA3 CoreXY 3D printer featuring a hybrid metal and ABS motion system. Designed for speed and precision, it offers a rigid yet lightweight structure, making it perfect for high-performance small-scale printing.
+The Hyperdrive Galaxy Spark is a 200x200x175mm build volume, CoreXY 3D printer featuring a hybrid metal and ABS motion system. Designed for speed and precision, it offers a rigid yet lightweight structure, making it perfect for high-performance small-scale printing.
 
 ## Hypernova printhead support
 
