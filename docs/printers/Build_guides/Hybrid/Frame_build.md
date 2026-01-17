@@ -8,10 +8,10 @@ Build the core frame before moving on to motion components and electronics.
 
 ## Quick checklist
 
-- [x] All extrusions accounted for
-- [x] Rails and hardware sorted by step
-- [x] Tools ready (hex keys, square, threadlocker)
-- [x] Panel T-Nut Rollins ready to install in frame
+- [x] All extrusions accounted for.
+- [x] Rails and hardware sorted by step.
+- [x] Tools ready (hex keys, square, threadlocker).
+- [x] Panel T-Nut Rollins ready to install in frame.
 
 tip "Alignment first" - Snug fasteners only until the frame is square. Final torque comes after all extrusions are in.
 
