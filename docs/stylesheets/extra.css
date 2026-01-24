@@ -95,3 +95,11 @@
   order: 1000;
   margin-left: auto;
 }
+
+/* Larger left-side navigation section titles */
+.md-nav__title,
+.md-nav__item--section > .md-nav__link {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
