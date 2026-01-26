@@ -58,6 +58,11 @@ For Rapido HF/UHF, Dragon Ace, and TZV6:
 - [Download Standard Spacer Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/spacers/spacer_v2.stl?raw=true)
 - [Download Standard Spacer Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/Ender/CR10/STL/spacers/spacer_v2.stl?raw=true)
 
+### X Carriage
+
+- [Download Carriage Right](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Right.stl?raw=true)
+- [Download Carriage Left](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Left.stl?raw=true)
+
 ### Belt Clip
 
 - [Download Belt Clip](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Belt_Clip/Belt_Clip.stl?raw=true)
