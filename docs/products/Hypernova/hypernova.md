@@ -34,6 +34,13 @@ description: A versatile Printhead
 
 - [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/blob/main/CAD/hypernova_ASM.zip?raw=true)
 
+### Fan Cover
+
+Front 25MM fan cover:
+
+- [Download Stock Fan Cover](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_covers/25mm_fan_cover.stl?raw=true)
+- [Download Hypurr Fan Cover](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_covers/25mm_hypurr.stl?raw=true)
+
 ### Chube Hotend
 
 For Chube Air core:
