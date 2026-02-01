@@ -64,13 +64,13 @@ For Rapido HF/UHF, Dragon Ace, and TZV6:
 
 ### X Carriage
 
-- The X carriage and the belt clips are only needed for the Enderwire/Switchwire.
+- The X carriage and the belt clamps are only needed for the Enderwire/Switchwire.
 - [Download Carriage Right](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Right.stl?raw=true)
 - [Download Carriage Left](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Left.stl?raw=true)
 
-### Belt Clip
+### Belt Clamp
 
-- [Download Belt Clip](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Belt_Clip/Belt_Clip.stl?raw=true)
+- [Download Belt Clamp](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Belt_Clip/Belt_Clip.stl?raw=true)
 
 ### Part Fan Ducts
 
