@@ -28,6 +28,10 @@ description: A versatile Printhead
 [Beacon]: https://beacon3d.com/
 [Cartographer V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order
 
+## Disclaimer
+
+To install the Hypernova on the Ender 3, you must first install a 300mm linear rail on your X axis.
+
 ## Downloads
 
 ### CAD Files
