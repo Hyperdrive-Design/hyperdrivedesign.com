@@ -30,7 +30,7 @@ description: A versatile Printhead
 
 ## Disclaimer
 
-To install the Hypernova on the Ender 3, you must first install a 300mm MGN 12 linear rail on your X axis.
+To install the Hypernova on the Ender 3, you must first install a 300mm MGN 12 linear rail on your X axis, change your belt, and add belt ties.
 
 ## Downloads
 
