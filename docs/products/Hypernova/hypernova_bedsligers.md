@@ -8,7 +8,7 @@ description: A versatile Printhead
 ![Hypernova toolhead overview](/assets/products/hypernova/bedslinger_edition.png)
 
 - **Hotend**
-[Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend
+[Rapido UHF/HF], [TZV6 w/MZE], [Dragon Ace], [Chube Air], [Red Lizard K1 UHF],
 
 - **Extruder**
   [Annex Engineering Sherpa (CNC)], [orbiter 2.0/2.5], [G2SA], [WWBMG], or [Bondtech LGX Lite/Pro]
@@ -20,6 +20,7 @@ description: A versatile Printhead
 [Chube Air]: https://chubehotend.com/
 [TZV6 w/MZE]: https://www.aliexpress.us/item/3256808497028944.html?channel=twinner
 [Dragon Ace]: https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend
+[Red Lizard K1 UHF]: https://www.aliexpress.us/item/3256803652913533.html
 [Annex Engineering Sherpa (CNC)]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 [orbiter 2.0/2.5]: https://www.orbiterprojects.com/orbiter-v2-0/
 [G2SA]: https://github.com/JaredC01/Galileo2
