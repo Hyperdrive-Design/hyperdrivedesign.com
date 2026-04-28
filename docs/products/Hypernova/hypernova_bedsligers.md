@@ -112,3 +112,9 @@ For Rapido HF, Dragon Ace, and TZV6 MZE:
 - [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/canbus-extruder_parts/LGX_Lite/Extruder_base_lgx_lite.stl?raw=true)
 - [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/canbus-extruder_parts/LGX_Lite/can_mount_LGX-lite.stl?raw=true)
 - [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/canbus-extruder_parts/LGX_Lite/EBB36%20Mount%20-%20LGX-lite%20%5Bstrain%20relief%5D.stl?raw=true)
+
+#### Papillo/Papillo legend
+
+- [Download Adapter](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/Papillo/Extruder_base_papillo.stl?raw=true)
+- [Download Brace](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/Papillo/can_mount%20Papillo.stl?raw=true)
+- [Download Can Bus Mount](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/canbus-extruder_parts/Papillo/EBB36%20Mount%20-%20Papillo%20%5Bstrain%20relief%5D.stl?raw=true)
