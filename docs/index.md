@@ -1,7 +1,5 @@
 # Welcome to HyperDrive Docs
 
-
-
 ![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
 
 ## Galaxy printers
