@@ -32,6 +32,10 @@ description: A versatile Printhead
 [Beacon]: https://beacon3d.com/
 [Cartographer V3/V4]: https://cartographer3d.com/products/cartographer-v4-aio-usb-can-low-profile-pre-order
 
+## Github
+
+### https://github.com/Hyperdrive-Design/Hypernova
+
 ## Downloads
 
 ### CAD Files
