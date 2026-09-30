@@ -5,9 +5,7 @@ description: Printhead showcase
 
 # Hypernova Build Showcase
 
-**DullAura**  
-
-## Gallery
+## DullAura
 
 | |
 |---|
@@ -18,9 +16,7 @@ description: Printhead showcase
 | ![DullAura detail 1](/assets/Hypernova_build_showcase/DullAura/IMG_6315.jpg) | ![DullAura detail 2](/assets/Hypernova_build_showcase/DullAura/IMG_6311.jpg) |
 
 
-**Project In Dad's Garage (alex)**  
-
-## Gallery
+## Project In Dad's Garage (alex) 
 
 | |
 |---|
