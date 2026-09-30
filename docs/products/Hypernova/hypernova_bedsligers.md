@@ -33,6 +33,8 @@ description: A versatile Printhead
 
 To install the Hypernova on the Ender 3, you must first install a 300mm MGN 12 linear rail on your X axis, change your belt, and add belt ties.
 
+switchwire and enderwire only support uhf lenght hotends
+
 ## Downloads
 
 ### CAD Files
@@ -47,7 +49,7 @@ Front 25MM fan cover:
 - [Download Stock Fan Cover](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_covers/25mm_fan_cover.stl?raw=true)
 - [Download Hypurr Fan Cover](https://github.com/Hyperdrive-Design/Hypernova/blob/main/STL/fan_covers/25mm_hypurr.stl?raw=true)
 
-### Chube Hotend
+### Chube Hotend core and spacers
 
 For Chube Air core:
 
@@ -55,7 +57,7 @@ For Chube Air core:
 - [Download Chube Spacer Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/spacers/chube_spacer_v2.stl?raw=true)
 - [Download Chube Spacer Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/Ender/CR10/STL/spacers/chube_spacer_v2.stl?raw=true)
 
-### Standard Hotend
+### HF/UHF Hotend core and spacers
 
 For Rapido HF/UHF, Dragon Ace, and TZV6:
 
@@ -63,13 +65,13 @@ For Rapido HF/UHF, Dragon Ace, and TZV6:
 - [Download Standard Spacer Switchwire/Enderwire](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/spacers/spacer_v2.stl?raw=true)
 - [Download Standard Spacer Ender/CR10](https://github.com/Hyperdrive-Design/Hypernova/blob/Ender/CR10/STL/spacers/spacer_v2.stl?raw=true)
 
-### X Carriage
+### switchwire and enderwire X Carriage belt adapter
 
 - The X carriage and the belt clamps are only needed for the Enderwire/Switchwire.
 - [Download Carriage Right](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Right.stl?raw=true)
 - [Download Carriage Left](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Carriage/Hypernova_SW_Carriage_Left.stl?raw=true)
 
-### Belt Clamp
+### switchwire and enderwire Belt Clamps
 
 - [Download Belt Clamp](https://github.com/Hyperdrive-Design/Hypernova/blob/switchwire/enderwire/STL/Belt_Clip/Belt_Clip.stl?raw=true)
 
