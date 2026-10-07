@@ -20,6 +20,7 @@ description: A versatile Printhead
   supports most 36 based canbus boards
 
 [Rapido UHF/HF]: https://www.phaetus.com/en-us/products/rapido-hotend?variant=45122834465045
+[Rapido X]: https://www.phaetus.com/en-us/products/rapido-x
 [Chube Air]: https://chubehotend.com/
 [TZV6 w/MZE]: https://www.aliexpress.us/item/3256808497028944.html?channel=twinner
 [Dragon Ace]: https://trianglelab.net/products/dragon-ace%E2%84%A2-hotend
