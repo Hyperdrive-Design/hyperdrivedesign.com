@@ -41,7 +41,7 @@ description: A versatile Printhead
 
 ### CAD Files
 
-- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/blob/main/CAD/hypernova_ASM.zip?raw=true)
+- [Download CAD Files](https://github.com/Hyperdrive-Design/Hypernova/tree/main/CAD)
 
 ### Fan Cover
 
