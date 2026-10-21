@@ -139,31 +139,47 @@ description: Printhead build guide
 
 ![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33).png)
 
-## 9.4 BELTS-MOUNTING-FINISHED
+## 9.4 INSTALL M3x8 COUNTERSUNK TORK
+
+![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.1).png)
+
+## 9.5 INSTALL M3x8 COUNTERSUNK TORK
+
+![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.2).png)
+
+## 9.6 INSTALL MAKERBEAM XL T-NUT
+
+![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.3).png)
+
+## 9.7 INSTALL MAKERBEAM XL T-NUT
+
+![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.4).png)
+
+## 9.8 BELTS-MOUNTING-FINISHED
 
 ![Hypernova Printhead build step thirty-five](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (34).png)
 
-## 9.5 INSTALL BELTS ON HYPERNOVA
+## 9.9 INSTALL BELTS ON HYPERNOVA
 
 ![Hypernova Printhead build step thirty-six](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (35).png)
 
-## 9.6 INSTALL BELT HARDWARE HYPERNOVA
+## 9.10 INSTALL BELT HARDWARE HYPERNOVA
 
 ![Hypernova Printhead build step thirty-seven](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (36).png)
 
-## 9.7 TIGHTEN TOP HARDWARE
+## 9.11 TIGHTEN TOP HARDWARE
 
 ![Hypernova Printhead build step thirty-eight](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (37).png)
 
-## 9.8 INSTALL BELTS ON HYPERNOVA
+## 9.12 INSTALL BELTS ON HYPERNOVA
 
 ![Hypernova Printhead build step thirty-nine](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (38).png)
 
-## 9.9 INSTALL BELT HARDWARE HYPERNOVA
+## 9.13 INSTALL BELT HARDWARE HYPERNOVA
 
 ![Hypernova Printhead build step forty](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (39).png)
 
-## 9.10 TIGHTEN TOP HARDWARE
+## 9.14 TIGHTEN TOP HARDWARE
 
 ![Hypernova Printhead build step forty-one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (40).png)
 
