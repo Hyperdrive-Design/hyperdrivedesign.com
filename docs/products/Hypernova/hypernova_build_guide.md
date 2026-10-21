@@ -139,11 +139,11 @@ description: Printhead build guide
 
 ![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33).png)
 
-## 9.4 INSTALL M3x8 COUNTERSUNK TORK
+## 9.4 INSTALL M3x8 COUNTERSUNK TORX
 
 ![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.1).png)
 
-## 9.5 INSTALL M3x8 COUNTERSUNK TORK
+## 9.5 INSTALL M3x8 COUNTERSUNK TORX
 
 ![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.2).png)
 
