@@ -5,6 +5,10 @@ description: Galaxy One Hybrid printer
 
 ![Galaxy one Hybrid (image)](/assets/products/printers/Galaxy_One_Hybrid/Galaxy_One_Hybrid_main.png)
 
+## Build guide
+
+[Open the illustrated Galaxy One Hybrid build guide](../Build_guides/Hybrid/Build_guide.md). Revision 0.8 includes orange hardware highlights and before/after assembly views.
+
 ## Hybrid CNC-machined
 
 The Hybrid HyperDrive Galaxy One is a 300mm³ CoreXY 3D printer with a hybrid CNC aluminum and ABS motion system. Designed for speed and precision, it comes in 24V or 48V configurations and offers an option for high-temp printed parts instead of ABS to withstand higher chamber temperatures. With a Beacon leveling system for fast, contactless bed leveling ensuring precise first layer calibration. The printer is also available with either the [Rapido UHF/HF], the [TZV6 w/MZE], the [Dragon Ace], the [Chube Air] hotend for optimized performance.
