@@ -1,192 +1,210 @@
 ---
 title: Hypernova Printhead build guide
-description: Printhead build guide
+description: HYPERNOVA printhead assembly guide, final version dated November 10, 2026.
 ---
 
-[Download Build Guide PDF](https://github.com/Hyperdrive-Design/hyperdrivedesign.com/blob/main/docs/assets/products/hypernova/PDF/HYPERNOVA%20BUILD%20GUIDE.pdf)
+[Download the final build guide PDF](/assets/products/hypernova/PDF/HYPERNOVA%20BUILD%20GUIDE.pdf)
 
-![Hypernova Printhead overview](/assets/products/hypernova/build_guide/hypernova_front_page.png)
+Final version: November 10, 2026.
 
-## 1 BEFORE GETTING STARTED
+![HYPERNOVA Build Guide — slide 1 of 51](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
-![Hypernova Printhead build step one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE.png)
+## Before getting started | Kit checklist
 
-## 2 SLICING
+![Before getting started | Kit checklist — slide 2 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE.png)
 
-![Hypernova Printhead build step three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (2).png)
+## Prepare your tools and parts
 
-## 3.1 NOVACORE – HEAT-SETS-M2.5
+![Prepare your tools and parts — slide 3 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%280.1%29.png)
 
-![Hypernova Printhead build step four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (3).png)
+## Identify the hardware before assembly
 
-## 3.2 NOVACORE – HEAT-SETS-M2.5
+![Identify the hardware before assembly — slide 4 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%280.2%29.png)
 
-![Hypernova Printhead build step five](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (4).png)
+## Contents | Jump to a section
 
-## 3.3 NOVACORE – HEAT-SETS-M2.5
+![Contents | Jump to a section — slide 5 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%281%29.png)
 
-![Hypernova Printhead build step six](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (5).png)
+## Print settings | HYPERNOVA parts
 
-## 3.4 NOVACORE – HEAT-SETS-M2.5
+![Print settings | HYPERNOVA parts — slide 6 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%282%29.png)
 
-![Hypernova Printhead build step seven](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (6).png)
+## NovaCore | Side inserts
 
-## 3.5 NOVACORE – HEAT-SETS-M2.5
+![NovaCore | Side inserts — slide 7 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%283%29.png)
 
-![Hypernova Printhead build step eight](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (7).png)
+## NovaCore | Check the side inserts
 
-## 3 NOVACORE – HEAT-SETS-M2.5
+![NovaCore | Check the side inserts — slide 8 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%284%29.png)
 
-![Hypernova Printhead build step nine](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (8).png)
+## NovaCore | Front inserts
 
-## 3.6 SPACER – HYPERSETS-M3
+![NovaCore | Front inserts — slide 9 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%285%29.png)
 
-![Hypernova Printhead build step ten](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (9).png)
+## NovaCore | Check the front inserts
 
-## 3.7 SPACER – HEAT-SETS-M3
+![NovaCore | Check the front inserts — slide 10 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%286%29.png)
 
-![Hypernova Printhead build step eleven](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (10).png)
+## NovaCore | Install M3 heat-set inserts
 
-## 3.8 SPACER – HEAT-SETS-M3
+![NovaCore | Install M3 heat-set inserts — slide 11 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%287%29.png)
 
-![Hypernova Printhead build step twelve](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (11).png)
+## NovaCore | Completed insert check
 
-## 3.9 SPACER – HEAT-SETS-M3
+![NovaCore | Completed insert check — slide 12 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%288%29.png)
 
-![Hypernova Printhead build step thirteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (12).png)
+## Spacer | Install HYPERSETS
 
-## 3.10 CAN MOUNT BRACE – HEAT-SETS-M3
+![Spacer | Install HYPERSETS — slide 13 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%289%29.png)
 
-![Hypernova Printhead build step fourteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (13).png)
+## Spacer | Install heat-set inserts
 
-## 3.11 EXTRUDER-ADAPTER-HEAT-SETS-M3
+![Spacer | Install heat-set inserts — slide 14 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2810%29.png)
 
-![Hypernova Printhead build step fifteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (14).png)
+## Spacer | Completed insert check
 
-## 3.12 CONMOUNT-HEAT-SETS-M3
+![Spacer | Completed insert check — slide 15 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2811%29.png)
 
-![Hypernova Printhead build step sixteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (15).png)
+## Spacer | Optional DF2 endstop
 
-## 4 NOVACORE-MOUNTING
+![Spacer | Optional DF2 endstop — slide 16 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2812%29.png)
 
-![Hypernova Printhead build step seventeen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (16).png)
+## CAN mount brace | Inserts
 
-## 5 NOVACORE-ASSEMBLY
+![CAN mount brace | Inserts — slide 17 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2813%29.png)
 
-![Hypernova Printhead build step eighteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (17).png)
+## Extruder adapter | Inserts
 
-## 5.1 TOP PLATE TO CORE
+![Extruder adapter | Inserts — slide 18 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2814%29.png)
 
-![Hypernova Printhead build step nineteen](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (18).png)
+## CAN mount | Inserts
 
-## 6 HOTEND-MOUNTING
+![CAN mount | Inserts — slide 19 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2815%29.png)
 
-![Hypernova Printhead build step twenty](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (19).png)
+## Mount the NovaCore
 
-## 6.1 HOTEND-MOUNTING
+![Mount the NovaCore — slide 20 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2816%29.png)
 
-![Hypernova Printhead build step twenty-one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (20).png)
+## Attach the CAN mount brace
 
-## 7 BEACON-MOUNTING
+![Attach the CAN mount brace — slide 21 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2817%29.png)
 
-![Hypernova Printhead build step twenty-two](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (21).png)
+## Fit the top plate to the core
 
-## 7.1 LOWER PLATE-MOUNTING
+![Fit the top plate to the core — slide 22 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2818%29.png)
 
-![Hypernova Printhead build step twenty-three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (22).png)
+## Position the hotend
 
-## 7.2 INSTALL-3-TOP-SCREWS
+![Position the hotend — slide 23 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2819%29.png)
 
-![Hypernova Printhead build step twenty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (23).png)
+## Secure the hotend
 
-## 8 INSTALL-2510-FAN-AND-COVER
+![Secure the hotend — slide 24 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2820%29.png)
 
-![Hypernova Printhead build step twenty-five](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (24).png)
+## Fit the Beacon standoffs
 
-## 8.1 ROUTE FAN WIRES
+![Fit the Beacon standoffs — slide 25 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2821%29.png)
 
-![Hypernova Printhead build step twenty-six](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (25).png)
+## Position the bottom plate
 
-## 8.2 MOUNT FAN DUCTS
+![Position the bottom plate — slide 26 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2822%29.png)
 
-![Hypernova Printhead build step twenty-seven](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (26).png)
+## Install the three top screws
 
-## 8.3 4010 FAN MOUNTING
+![Install the three top screws — slide 27 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2823%29.png)
 
-![Hypernova Printhead build step twenty-eight](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (27).png)
+## Install the 2510 fan and cover
 
-## 8.4 INSTALL TOP FAN-HARDWARE
+![Install the 2510 fan and cover — slide 28 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2824%29.png)
 
-![Hypernova Printhead build step twenty-nine](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (28).png)
+## Route the fan wires
 
-## 8.5 TIGHTEN TOP FAN-MOUNTING
+![Route the fan wires — slide 29 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2825%29.png)
 
-![Hypernova Printhead build step thirty](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (29).png)
+## Mount the fan ducts
 
-## 9 BELTS-MOUNTING
+![Mount the fan ducts — slide 30 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2826%29.png)
 
-![Hypernova Printhead build step thirty-one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (30).png)
+## Seat the 4010 fans
 
-## 9.1 BELTS-MOUNTING
+![Seat the 4010 fans — slide 31 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2827%29.png)
 
-![Hypernova Printhead build step thirty-two](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (31).png)
+## Install the top fan hardware
 
-## 9.2 BELTS-MOUNTING
+![Install the top fan hardware — slide 32 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2828%29.png)
 
-![Hypernova Printhead build step thirty-three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (32).png)
+## Tighten the top fan hardware
 
-## 9.3 BELTS-MOUNTING
+![Tighten the top fan hardware — slide 33 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2829%29.png)
 
-![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33).png)
+## Belts | Fold the belt end
 
-## 9.4 INSTALL M3x8 COUNTERSUNK TORX
+![Belts | Fold the belt end — slide 34 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2830%29.png)
 
-![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.1).png)
+## Belts | Position the belt tie
 
-## 9.5 INSTALL M3x8 COUNTERSUNK TORX
+![Belts | Position the belt tie — slide 35 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2831%29.png)
 
-![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.2).png)
+## Belts | Insert the spacer
 
-## 9.6 INSTALL MAKERBEAM XL T-NUT
+![Belts | Insert the spacer — slide 36 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2832%29.png)
 
-![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.3).png)
+## Belts | Center the spacer
 
-## 9.7 INSTALL MAKERBEAM XL T-NUT
+![Belts | Center the spacer — slide 37 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2833%29.png)
 
-![Hypernova Printhead build step thirty-four](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (33.4).png)
+## Belts | Insert the clamp screw
 
-## 9.8 BELTS-MOUNTING-FINISHED
+![Belts | Insert the clamp screw — slide 38 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2833.1%29.png)
 
-![Hypernova Printhead build step thirty-five](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (34).png)
+## Belts | Check screw position
 
-## 9.9 INSTALL BELTS ON HYPERNOVA
+![Belts | Check screw position — slide 39 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2833.2%29.png)
 
-![Hypernova Printhead build step thirty-six](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (35).png)
+## Belts | Fit the MakerBeam XL T-nut
 
-## 9.10 INSTALL BELT HARDWARE HYPERNOVA
+![Belts | Fit the MakerBeam XL T-nut — slide 40 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2833.3%29.png)
 
-![Hypernova Printhead build step thirty-seven](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (36).png)
+## Belts | Check the T-nut
 
-## 9.11 TIGHTEN TOP HARDWARE
+![Belts | Check the T-nut — slide 41 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2833.4%29.png)
 
-![Hypernova Printhead build step thirty-eight](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (37).png)
+## Belts | Completed clamp check
 
-## 9.12 INSTALL BELTS ON HYPERNOVA
+![Belts | Completed clamp check — slide 42 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2834%29.png)
 
-![Hypernova Printhead build step thirty-nine](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (38).png)
+## Belts | Position the first clamp
 
-## 9.13 INSTALL BELT HARDWARE HYPERNOVA
+![Belts | Position the first clamp — slide 43 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2835%29.png)
 
-![Hypernova Printhead build step forty](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (39).png)
+## Belts | Install the first top screw
 
-## 9.14 TIGHTEN TOP HARDWARE
+![Belts | Install the first top screw — slide 44 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2836%29.png)
 
-![Hypernova Printhead build step forty-one](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (40).png)
+## Belts | Secure the first clamp
 
-## 10 BELTS-INSTALLED
+![Belts | Secure the first clamp — slide 45 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2837%29.png)
 
-![Hypernova Printhead build step forty-two](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (41).png)
+## Belts | Position the opposite clamp
 
-## 11 REFERENCES
+![Belts | Position the opposite clamp — slide 46 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2838%29.png)
 
-![Hypernova Printhead build step forty-three](/assets/products/hypernova/build_guide/HYPERNOVA BUILD GUIDE (42).png)
+## Belts | Install the opposite top screw
+
+![Belts | Install the opposite top screw — slide 47 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2839%29.png)
+
+## Belts | Secure the opposite clamp
+
+![Belts | Secure the opposite clamp — slide 48 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2840%29.png)
+
+## Belts installed | Inspect both sides
+
+![Belts installed | Inspect both sides — slide 49 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2841%29.png)
+
+## Final mechanical inspection
+
+![Final mechanical inspection — slide 50 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2841.1%29.png)
+
+## References
+
+![References — slide 51 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2842%29.png)
