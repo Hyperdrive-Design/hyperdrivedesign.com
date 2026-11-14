@@ -2,8 +2,6 @@
 
 Build the core frame before moving on to motion components and electronics.
 
-[Open the full illustrated Galaxy One Hybrid build guide](Build_guide.md).
-
 ![Overview](/assets/products/printers/Galaxy_One_Hybrid/Frame_build/overview.png)
 
 ---
