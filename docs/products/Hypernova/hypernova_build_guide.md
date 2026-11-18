@@ -1,11 +1,13 @@
 ---
 title: Hypernova Printhead build guide
-description: HYPERNOVA printhead assembly guide, final version dated November 10, 2026.
+description: Hypernova Printhead V2.1 assembly guide, with a PDF download for V2.
 ---
 
-[Download the final build guide PDF](/assets/products/hypernova/PDF/HYPERNOVA%20BUILD%20GUIDE.pdf)
+[Download the V2.1 build guide (PDF)](/assets/products/hypernova/PDF/HYPERNOVA%20BUILD%20GUIDE.pdf)
 
-Final version: November 10, 2026.
+[Download the V2 build guide (PDF)](/assets/products/hypernova/PDF/hypernova-v2-build-guide.pdf)
+
+V2.1 guide updated November 10, 2026.
 
 ![HYPERNOVA Build Guide — slide 1 of 51](/assets/products/hypernova/build_guide/hypernova_front_page.png)
 
