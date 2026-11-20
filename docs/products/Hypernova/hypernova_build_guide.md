@@ -210,3 +210,10 @@ V2.1 guide updated November 10, 2026.
 ## References
 
 ![References — slide 51 of 51](/assets/products/hypernova/build_guide/HYPERNOVA%20BUILD%20GUIDE%20%2842%29.png)
+
+- [Klippain ShakeTune](https://github.com/Frix-x/klippain-shaketune)
+- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+- [Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- [HyperDrive Design website](https://www.hyperdrivedesign.com)
+- [Hypernova on GitHub](https://github.com/Hyperdrive-Design/Hypernova)
+- [HyperDrive Design Discord](https://discord.gg/gZVXSz9fXj)
